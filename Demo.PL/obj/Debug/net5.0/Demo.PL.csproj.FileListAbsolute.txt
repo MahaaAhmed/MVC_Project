@@ -1,0 +1,1880 @@
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Demo.PL.exe
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Demo.PL.deps.json
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.json
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.dev.json
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Demo.PL.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Demo.PL.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfo.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\scopedcss\bundle\Demo.PL.styles.css
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\staticwebassets\Demo.PL.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.input.cache
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.output.cache
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorCoreGenerate.cache
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.Views.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CopyComplete
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\refint\Demo.PL.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Demo.PL.genruntimeconfig.cache
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\ref\Demo.PL.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Detials.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\ButtonsPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViewsEmployee\CreateEditPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViewsEmployee\DeleteDetailsPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Detials.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\CreateEditDepartmentPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\DeleteDetialsPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\bin\Debug\net5.0\bundleconfig.json
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Pages\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\CompleteForgetPassword.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordDone.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Detials.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\PartialViewsEmployee\CreateEditPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\FirstProject\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\PartialViewsEmployee\DeleteDetailsPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\bundleconfig.json
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.exe
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.deps.json
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.json
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.dev.json
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfo.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\scopedcss\bundle\Demo.PL.styles.css
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\staticwebassets\Demo.PL.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.input.cache
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.output.cache
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorCoreGenerate.cache
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Pages\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\CompleteForgetPassword.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordDone.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Detials.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\CreateEditDepartmentPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\DeleteDetialsPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Detials.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViewsEmployee\CreateEditPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViewsEmployee\DeleteDetailsPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\ButtonsPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Detials.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\PartialViewsEmployee\CreateEditPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\PartialViewsEmployee\DeleteDetailsPartialView.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cs
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.Views.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CopyComplete
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\refint\Demo.PL.dll
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.genruntimeconfig.cache
+C:\Users\hp\source\repos\MVC Project\Demo.PL\obj\Debug\net5.0\ref\Demo.PL.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\appsettings.Development.json
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\appsettings.json
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\bundleconfig.json
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.exe
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.deps.json
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.json
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.dev.json
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.pdb
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\mscorlib.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\netstandard.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.AppContext.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Buffers.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Configuration.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Console.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Core.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Data.Common.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Data.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Linq.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Memory.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Mail.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Ping.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Requests.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Security.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ObjectModel.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Claims.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Json.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ValueTuple.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Web.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Windows.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\refs\WindowsBase.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.pdb
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\AutoMapper.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Humanizer.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.BLL.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\Projects\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.AssemblyReference.cache
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfoInputs.cache
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfo.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CoreCompileInputs.cache
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cache
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\scopedcss\bundle\Demo.PL.styles.css
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\staticwebassets\Demo.PL.StaticWebAssets.Manifest.cache
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.input.cache
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.output.cache
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorCoreGenerate.cache
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Pages\_Layout.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\CompleteForgetPassword.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordDone.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Detials.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\CreateEditDepartmentPartialView.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\DeleteDetialsPartialView.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Detials.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViewsEmployee\CreateEditPartialView.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViewsEmployee\DeleteDetailsPartialView.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\ButtonsPartialView.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Detials.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\PartialViewsEmployee\CreateEditPartialView.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\PartialViewsEmployee\DeleteDetailsPartialView.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cache
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cs
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.Views.pdb
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CopyComplete
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.dll
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\refint\Demo.PL.dll
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.pdb
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.genruntimeconfig.cache
+E:\Projects\MVC Project\Demo.PL\obj\Debug\net5.0\ref\Demo.PL.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\appsettings.Development.json
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\appsettings.json
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\bundleconfig.json
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.exe
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.deps.json
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.json
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.runtimeconfig.dev.json
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\netstandard.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Console.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Core.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Data.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Web.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.PL.Views.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\AutoMapper.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Humanizer.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.AssemblyReference.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfoInputs.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.AssemblyInfo.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CoreCompileInputs.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorAssemblyInfo.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\scopedcss\bundle\Demo.PL.styles.css
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\staticwebassets\Demo.PL.StaticWebAssets.Manifest.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.input.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.TagHelpers.output.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorCoreGenerate.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Pages\_Layout.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\CompleteForgetPassword.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordDone.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Detials.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\CreateEditDepartmentPartialView.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Department\PartialViews\DeleteDetialsPartialView.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Detials.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViewsEmployee\CreateEditPartialView.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViewsEmployee\DeleteDetailsPartialView.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\ButtonsPartialView.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Detials.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\PartialViewsEmployee\CreateEditPartialView.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\Users\PartialViewsEmployee\DeleteDetailsPartialView.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.RazorTargetAssemblyInfo.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.Views.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CopyComplete
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\refint\Demo.PL.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\Demo.PL.genruntimeconfig.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.PL\obj\Debug\net5.0\ref\Demo.PL.dll

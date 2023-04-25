@@ -1,0 +1,14 @@
+﻿ @model DepartmentViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Department</h1>
+<br />
+<br />
+<form asp-action="Edit"  asp-controller="Department">
+    <input asp-for="Id"  hidden/>
+   <partial name="PartialViews/CreateEditDepartmentPartialView"/>
+    <input class="btn btn-primary" value="Save" type="submit" /> |
+    <a asp-action="Index" asp-controller="Department" class="btn btn-light"> Back to List</a>
+</form>

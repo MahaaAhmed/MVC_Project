@@ -1,0 +1,16 @@
+﻿@model ApplicationUser
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Edit User's Data'</h1>
+<br />
+<br />
+<form asp-action="Edit" asp-controller="Employee">
+    <div asp-validation-summary="All"></div>
+    <input asp-for="Id" hidden />
+   <partial name="PartialViewsEmployee/CreateEditPartialView"/>
+
+    <input class="btn btn-primary" value="Save" type="submit" /> |
+    <a asp-action="Index" asp-controller="Employee" class="btn btn-light"> Back to List</a>
+</form>

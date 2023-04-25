@@ -1,0 +1,60 @@
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\hp\source\repos\FirstProject\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\hp\source\repos\MVC Project\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\Projects\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\Projects\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\Projects\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\Projects\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Projects\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Projects\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Projects\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Projects\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\Projects\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Projects\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\Projects\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\Projects\MVC Project\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\Projects\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\Projects\MVC Project\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\Dowmloads\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
