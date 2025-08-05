@@ -1,130 +1,257 @@
-﻿using AutoMapper;
-using Demo.BLL.Interfaces;
-using Demo.DAL.Entities;
-using Demo.PL.Helper;
-using Demo.PL.Models;
-using Microsoft.AspNetCore.Authorization;
+﻿using Demo.BLL.DTO.DepartmentDtos;
+using Demo.BLL.DTO.EmployeeDto;
+using Demo.BLL.Services.AttachmentService;
+using Demo.BLL.Services.Clases;
+using Demo.BLL.Services.Interfaces;
+using Demo.DAL.Models.EmployeeModel;
+using Demo.PL.ViewModels;
+using Demo.PL.ViewModels.Employee;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace Demo.PL.Controllers
 {
-    [Authorize]
-
-    public class EmployeeController : Controller
+    public class EmployeeController(IEmployeeService _employeeService, IDepartmentService departmentService,
+         ILogger<EmployeeController> _logger, IWebHostEnvironment _environment , IAttachmentService attachmentService) : Controller
     {
-        private readonly IMapper mapper;
 
-        public IUnitOfWork UnitOfWork { get; }
-
-        public EmployeeController( IUnitOfWork _unitOfWork , IMapper _mapper)
+        public IActionResult Index(string? EmployeeSearchName)
         {
-            UnitOfWork = _unitOfWork;
-            mapper = _mapper;
-        }
+            //TempData.Keep();
+            //Binding through view's dictionary : transfer Data From Action To View 
+            // 1. ViewData
+            //ViewData["Message"] = "Hello ViewData";
+            //string viewDataMessage = ViewData["Message"] as string;
 
-
-        public async Task<IActionResult> Index(string SearchValue)
-        {
-            if (string.IsNullOrEmpty(SearchValue))
+            //// 2. ViewBag
+            //ViewBag.Message = "Hello ViewBag";
+            //string viewwBagMsg = ViewBag.Message;
+            dynamic Employees = null!;
+            if (string.IsNullOrEmpty(EmployeeSearchName))
             {
-            var employees = mapper.Map<IEnumerable<Employee>, IEnumerable<EmployeeViewModel>>( await UnitOfWork.EmployeeRepository.GetAll());
-            return View(employees);
+                 Employees = _employeeService.GetAllEmployees();
+
             }
             else
             {
-                var employees = mapper.Map<IEnumerable<Employee>, IEnumerable<EmployeeViewModel>>( await UnitOfWork.EmployeeRepository.SearchEmployee(SearchValue));
-                return View(employees);
-            }
-        }
-        public async Task<IActionResult> Detials(int? id, string ViewName = "Detials")
-        {
-            if (id == null)
-                return NotFound();
-            var _employee = await UnitOfWork.EmployeeRepository.Get(id);
-            if (_employee == null)
-                return NotFound();
-            var employeeVM = mapper.Map<Employee, EmployeeViewModel>(_employee);
+                 Employees = _employeeService.SearchEmployeeByName(EmployeeSearchName);
 
-            return View(ViewName, employeeVM);
+            }
+
+            return View(Employees);
         }
-        public IActionResult Create()
+        #region Create Employee
+        [HttpGet]
+        public IActionResult Create(/*[FromServices] IDepartmentService _departmentService*/)
         {
+            //ViewData["Departments"] = _departmentService.GetAllDepartments();
+            //ViewBag.Departments = _departmentService.GetAllDepartments(); ;
             return View();
         }
+
         [HttpPost]
-        public async Task<IActionResult> Create(EmployeeViewModel employeeVM)
+        public IActionResult Create(EmployeeViewModel employeeDto)
         {
             if (ModelState.IsValid) // server side validation
             {
-               employeeVM.ImageName = DocumentSettings.UploadFile(employeeVM.Image, "Images");
-                var employee = mapper.Map<EmployeeViewModel, Employee>(employeeVM);
-                await UnitOfWork.EmployeeRepository.add(employee);
-                return RedirectToAction(nameof(Index));
-            }
-            ViewBag.departments = UnitOfWork.DepartmentRepository.GetAll();
-
-            return View(employeeVM);
-        }
-
-        public async Task <IActionResult> Edit(int? Id)
-        {
-            ViewBag.departments = UnitOfWork.DepartmentRepository.GetAll();
-
-            return await Detials(Id, "Edit");
-        }
-        [HttpPost]
-        [ValidateAntiForgeryToken] // 3shan at2kd an msh hy7sl ay edit 8er mn l form 
-        public async Task<IActionResult> Edit([FromRoute] int? id, EmployeeViewModel employeeVM)
-        {
-            if (id == employeeVM.Id)
-            {
-                if (ModelState.IsValid)
+                try
                 {
-                    try
+                    var employeeCreatedDto = new CreatedEmployeeDto()
                     {
-                        employeeVM.ImageName = DocumentSettings.UploadFile(employeeVM.Image, "Images");
-                        var employee = mapper.Map<EmployeeViewModel, Employee>(employeeVM);
-                        await UnitOfWork.EmployeeRepository.update(employee);
+                        Name = employeeDto.Name,
+                        Address = employeeDto.Address,
+                        Age = employeeDto.Age,
+                        IsActive = employeeDto.IsActive,
+                        Email = employeeDto.Email,
+                        EmployeeType = employeeDto.EmployeeType,
+                        Gender = employeeDto.Gender,
+                        HiringDate = employeeDto.HiringDate,
+                        PhoneNumber = employeeDto.PhoneNumber,
+                        Salary = employeeDto.Salary,
+                        DepartmentId = employeeDto.DepartmentId,
+                        Image = employeeDto.Image
+                    };
+                    // create  => created  , savechanges()
+                    int result = _employeeService.CreateEmployee(employeeCreatedDto); // created
+                                                                                          // update  => updated  , savechnges()
+                                                                                          // edit departmentId  => modified  , savechanges()
+
+                    // delete  => deleteed , savechanges()
+
+
+                    // create , update , edit , delete   => savechanges() 
+
+                    // 3. TempData 
+                    if (result > 0)
+                    {
+                        TempData["Message"] = "Employee Created Succesfuly ";
                         return RedirectToAction(nameof(Index));
+
                     }
-                    catch (System.Exception)
+
+
+
+                    else
                     {
+                        TempData["Message"] = "Employee Creation failed ";
 
-                        return BadRequest();
+                        ModelState.AddModelError(string.Empty, "Employee can't be created !!");
+                        return RedirectToAction(nameof(Index));
+
                     }
+
                 }
-                ViewBag.departments = UnitOfWork.DepartmentRepository.GetAll();
-                return View(employeeVM);
+                catch (Exception ex)
+                {
+                    // log exception 
+                    if (_environment.IsDevelopment())
+                    {
+                        // 1. Development  => Log Error in Console and return same view with error msg
+                        ModelState.AddModelError(string.Empty, ex.Message);
+                    }
+                    else
+                    {
+                        // 2. Deployment   => Log Error  in file | Table in database And Return Error view 
+                        _logger.LogError(ex.Message);
+                    }
 
+
+
+                }
             }
-            return BadRequest();
+            return View(employeeDto);
+        }
+
+
+
+
+        #endregion
+
+        #region Details Of Employee
+        [HttpGet]
+        public IActionResult Details(int? id)
+        {
+            if (!id.HasValue) return BadRequest(); // 400
+            var employee = _employeeService.GetEmployeeById(id.Value);
+            if (employee is null) return NotFound(); // 404
+            return View(employee);
+        }
+        #endregion
+
+        #region Edit Employee
+        [HttpGet]
+        public IActionResult Edit(int? id/*, [FromServices] IDepartmentService _departmentService*/)
+        {
+            if (!id.HasValue) return BadRequest();
+            var employee = _employeeService.GetEmployeeById(id.Value);
+            if (employee is null) return NotFound();
+            var employeeDto = new EmployeeViewModel()
+            {
+                Name = employee.Name,
+                Address = employee.Address,
+                Age = employee.Age,
+                Email = employee.Email,
+                PhoneNumber = employee.PhoneNumber,
+                IsActive = employee.IsActive,
+                HiringDate = employee.HiringDate,
+                Gender = Enum.Parse<Gender>(employee.Gender),
+                EmployeeType = Enum.Parse<EmployeeType>(employee.EmployeeType),
+                
+                
+            };
+            //ViewData["Departments"] = _departmentService.GetAllDepartments();
+            return View(employeeDto);
 
         }
-        public async Task <IActionResult> Delete(int? Id)
-        {
-            return await Detials(Id, "Delete");
-        }
+
+        [ValidateAntiForgeryToken]
         [HttpPost]
-        public IActionResult Delete([FromRoute] int? Id, EmployeeViewModel employeeVM)
+        public IActionResult Edit([FromRoute] int? id, EmployeeViewModel viewModel)
         {
-            if (Id != employeeVM.Id)
-                return BadRequest();
+            if (!ModelState.IsValid) return View(viewModel);
             try
             {
-                var employee = mapper.Map<EmployeeViewModel, Employee>(employeeVM);
-                DocumentSettings.DeleteFile(employee.ImageName, "Images");
-                UnitOfWork.EmployeeRepository.delete(employee);
-                return RedirectToAction(nameof(Index));
+                var employeeUpdatedDto = new UpdatedEmployeeDto()
+                {
+                    Id = id.Value,
+                    Name = viewModel.Name,
+                    Address = viewModel.Address,
+                    Age = viewModel.Age,
+                    IsActive = viewModel.IsActive,
+                    Email = viewModel.Email,
+                    EmployeeType = viewModel.EmployeeType,
+                    Gender = viewModel.Gender,
+                    HiringDate = viewModel.HiringDate,
+                    PhoneNumber = viewModel.PhoneNumber,
+                    Salary = viewModel.Salary,
+                };
+                int resullt = _employeeService.UpdateEmployee(employeeUpdatedDto);
+                if (resullt > 0)
+                    return RedirectToAction(nameof(Index));
 
+                else
+                {
+                    ModelState.AddModelError(string.Empty, "Employee can't be updated !!");
+                }
             }
-            catch (System.Exception)
+            catch (Exception ex)
             {
-                return BadRequest();
-            }
 
+                if (_environment.IsDevelopment())
+                {
+                    // 1. Development  => Log Error in Console and return same view with error msg
+                    ModelState.AddModelError(string.Empty, ex.Message);
+                }
+                else
+                {
+                    // 2. Deployment   => Log Error  in file | Table in database And Return Error view 
+                    _logger.LogError(ex.Message);
+
+                }
+            }
+            return View(viewModel);
+        }
+
+        #endregion
+
+        #region Delete Employee
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            if (id == 0) return BadRequest();
+            try
+            {
+                var deleted = _employeeService.DeleteEmployee(id);
+                if (deleted)
+                {
+                    
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    ModelState.AddModelError(string.Empty, "Employee Is Not Deleted!");
+                    return RedirectToAction(nameof(Index));
+                }
+            }
+            catch (Exception ex)
+            {
+
+                if (_environment.IsDevelopment())
+                {
+                    // 1. Development  => Log Error in Console and return same view with error msg
+                    ModelState.AddModelError(string.Empty, ex.Message);
+                }
+                else
+                {
+                    // 2. Deployment   => Log Error  in file | Table in database And Return Error view 
+                    _logger.LogError(ex.Message);
+                }
+
+            }
+            return RedirectToAction(nameof(Index));
 
         }
+        #endregion
+
+
     }
 }

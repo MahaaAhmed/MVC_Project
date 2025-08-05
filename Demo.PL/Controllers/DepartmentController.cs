@@ -1,114 +1,195 @@
-﻿using AutoMapper;
-using Demo.BLL.Interfaces;
-using Demo.DAL.Entities;
-using Demo.PL.Models;
-using Microsoft.AspNetCore.Authorization;
+﻿using Demo.BLL.DTO.DepartmentDtos;
+using Demo.BLL.Services.Interfaces;
+using Demo.PL.ViewModels;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace Demo.PL.Controllers
 {
-    [Authorize]
-
-    public class DepartmentController : Controller
+    public class DepartmentController(IDepartmentService _departmentService,
+        ILogger<DepartmentController> _logger, IWebHostEnvironment _environment) : Controller
     {
-        private readonly IMapper Mapper;
+        //private readonly IDepartmentService _departmentService = departmentService;
 
-        public IUnitOfWork UnitOfWork { get; }
-
-
-        public DepartmentController(IUnitOfWork unitOfWork, IMapper mapper)
+        public IActionResult Index()
         {
-            Mapper = mapper;
-            UnitOfWork = unitOfWork;
-        }
-        public async Task<IActionResult> Index()
-        {
+            var departments = _departmentService.GetAllDepartments();
 
-            var department = Mapper.Map<IEnumerable<Department>, IEnumerable<DepartmentViewModel>>(await UnitOfWork.DepartmentRepository.GetAll());
-            return View(department);
-        }
-        public async Task<IActionResult> Detials(int? id, string ViewName = "Detials")
-        {
-            if (id == null)
-                return NotFound();
-            var _Department = await UnitOfWork.DepartmentRepository.Get(id);
-            if (_Department == null)
-                return NotFound();
-            var departmentVm = Mapper.Map<Department, DepartmentViewModel>(_Department);
-
-            return View(ViewName, departmentVm);
-        }
-        public async Task<IActionResult> Edit(int? Id)
-        {
-            return await Detials(Id, "Edit");
-        }
-        [HttpPost]
-        [ValidateAntiForgeryToken] // 3shan at2kd an msh hy7sl ay edit 8er mn l form 
-        public async Task<IActionResult> Edit([FromRoute] int? id, DepartmentViewModel departmentVm)
-        {
-            if (id != departmentVm.Id)
-                return BadRequest();
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    var department = Mapper.Map<DepartmentViewModel, Department>(departmentVm);
-
-                    await UnitOfWork.DepartmentRepository.update(department);
-                    return RedirectToAction(nameof(Index));
-                }
-                catch (System.Exception)
-                {
-
-                    return BadRequest();
-                }
-            }
-            return View(departmentVm);
-
+            return View(departments);
         }
 
+        #region Create Department
+
+        [HttpGet]
         public IActionResult Create()
         {
             return View();
         }
+
         [HttpPost]
-        public async Task<IActionResult> Create(DepartmentViewModel departmentVm)
+        public IActionResult Create(CreatedDepartmentDto departmentDto)
         {
             if (ModelState.IsValid) // server side validation
             {
-                var department = Mapper.Map<DepartmentViewModel, Department>(departmentVm);
-                await UnitOfWork.DepartmentRepository.add(department);
-                TempData["Message"] = "Department has been add successfully";
-                return RedirectToAction(nameof(Index));
-            }
-            return View(departmentVm);
-        }
+                try
+                {
+                    int result = _departmentService.AddDepartment(departmentDto);
 
-        public async Task<IActionResult> Delete(int? Id)
-        {
-            return await Detials(Id, "Delete");
+                    if (result > 0)
+
+                        return RedirectToAction(nameof(Index));
+                    else
+                    {
+                        ModelState.AddModelError(string.Empty, "Department can't be created !!");
+                    }
+
+                }
+                catch (Exception ex)
+                {
+                    // log exception 
+                    if (_environment.IsDevelopment())
+                    {
+                        // 1. Development  => Log Error in Console and return same view with error msg
+                        ModelState.AddModelError(string.Empty, ex.Message);
+                    }
+                    else
+                    {
+                        // 2. Deployment   => Log Error  in file | Table in database And Return Error view 
+                        _logger.LogError(ex.Message);
+
+                    }
+
+
+
+                }
+            }
+            return View(departmentDto);
+
         }
-        [HttpPost]
-        public async Task<IActionResult> Delete([FromRoute] int? Id, DepartmentViewModel departmentVm)
+        #endregion
+
+        #region Details of Department
+        [HttpGet]
+        public IActionResult Details(int? id)
         {
-            if (Id != departmentVm.Id)
-                return BadRequest();
+            if (!id.HasValue) return BadRequest(); // 400
+            var department = _departmentService.GetDepaermentById(id.Value);
+            if (department is null) return NotFound(); // 404
+            return View(department);
+        }
+        #endregion
+
+        #region Edit Department
+        [HttpGet]
+        public IActionResult Edit(int? id)
+        {
+            if ((!id.HasValue)) return BadRequest();
+            var department = _departmentService.GetDepaermentById(id.Value);
+            if (department is null) return NotFound();
+            var departmentViewModel = new DepartmentEditViewModel()
+            {
+                Code = department.Code,
+                Name = department.Name,
+                Description = department.Description,
+                DateOfCreation = department.CreatedOn
+            };
+            return View(departmentViewModel);
+
+        }
+        [ValidateAntiForgeryToken]
+        [HttpPost]
+        public IActionResult Edit([FromRoute] int? id ,DepartmentEditViewModel viewModel)
+        {
+            if (!ModelState.IsValid) return View(viewModel);
             try
             {
-                var department = Mapper.Map<DepartmentViewModel, Department>(departmentVm);
-                await UnitOfWork.DepartmentRepository.delete(department);
-                return RedirectToAction(nameof(Index));
+                var updatedDepartment = new UpdateDepartmentDto()
+                {
+                    Id = id.Value,
+                    Code = viewModel.Code,
+                    Name = viewModel.Name,
+                    Description = viewModel.Description,
+                    DateOfCreation = viewModel.DateOfCreation
+                };
+                int resullt = _departmentService.UpdateDepartment(updatedDepartment);
+                if (resullt > 0)
+                    return RedirectToAction(nameof(Index));
 
+                else
+                {
+                    ModelState.AddModelError(string.Empty, "Department can't be created !!");
+                }
             }
-            catch (System.Exception)
+            catch (Exception ex)
             {
-                return BadRequest();
+
+                if (_environment.IsDevelopment())
+                {
+                    // 1. Development  => Log Error in Console and return same view with error msg
+                    ModelState.AddModelError(string.Empty, ex.Message);
+                }
+                else
+                {
+                    // 2. Deployment   => Log Error  in file | Table in database And Return Error view 
+                    _logger.LogError(ex.Message);
+
+                }
             }
-
-
+            return View(viewModel);
         }
+        #endregion
+
+        #region Delete Department
+        // Department/Delete
+        //[HttpGet]
+        //public IActionResult Delete(int? id)
+        //{
+        //    if (!id.HasValue) return BadRequest();
+        //    var department = _departmentService.GetDepaermentById(id.Value);
+        //    if (department == null) return NotFound();
+        //    return View(department);
+
+        //}
+
+
+        // Department/Delete/10
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            if(id == 0 ) return BadRequest();
+            try
+            {
+                bool deleted = _departmentService.DeleteDepartment(id);
+                if(deleted)
+                    return RedirectToAction(nameof(Index));
+
+                else
+                {
+                    ModelState.AddModelError(string.Empty, "Departmrnt is not deleted");
+                    // data of department 
+                    return RedirectToAction(nameof(Delete),new { id});
+                }
+            }
+            catch (Exception ex)
+            {
+
+                if (_environment.IsDevelopment())
+                {
+                    // 1. Development  => Log Error in Console and return same view with error msg
+                    ModelState.AddModelError(string.Empty, ex.Message);
+                    return RedirectToAction(nameof(Index));
+
+                }
+                else
+                {
+                    // 2. Deployment   => Log Error  in file | Table in database And Return Error view 
+                    _logger.LogError(ex.Message);
+                    return View("Error");
+
+                }
+            }
+        }
+        #endregion
+
 
     }
 }

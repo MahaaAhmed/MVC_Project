@@ -1,17 +1,27 @@
-﻿@model EmployeeViewModel
+﻿@using Demo.DAL.Models.EmployeeModel
+@model EmployeeViewModel
 @{
     ViewData["Title"] = "Create";
+
 }
 
-<h1>Add New Employee</h1>
-<br />
-<br />
-<form asp-action="Create" asp-controller="Employee" enctype="multipart/form-data">
-   <partial name="PartialViewsEmployee/CreateEditPartialView"/>
-    <input class="btn btn-primary" value="submit" type="submit" /> |
-    <a asp-action="Index" asp-controller="Employee" class="btn btn-light"> Back to List</a>
-</form>
-@section scriptSection {
-    <partial name="_ValidationScriptsPartial"/>
+<div class="row justify-content-center align-content-center mt-3">
+    <h1 class="col-8 my-4">Create Employee</h1>
+    <form method="post" asp-controller="Employee" asp-action="Create" class=" row col-8" enctype="multipart/form-data">
+      
+        <partial name="PartialViews/CreateEditEmployeePartial"/>
+
+        <div class="mt-4 m-auto">
+            <input class="btn btn-primary" type="submit" value="Save" />
+            <a asp-controller="Employee" asp-action="Index" class="btn btn-outline-dark">Back to list</a>
+        </div>
+    </form>
+</div>
+
+
+@section ValidateScripts
+{
+    <partial name="_ValidationScriptsPartial" />
+
 }
 

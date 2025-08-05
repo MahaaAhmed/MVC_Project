@@ -1,15 +1,20 @@
 ﻿@model EmployeeViewModel
 @{
-    ViewData["Title"] = "Update";
+    ViewData["Title"] = "Edit";
 }
 
-<h1>Edit Emploee's Data'</h1>
-<br />
-<br />
-<form asp-action="Edit" asp-controller="Employee">
-    <input asp-for="Id" hidden />
-   <partial name="PartialViewsEmployee/CreateEditPartialView"/>
+<div class="row justify-content-center align-content-center mt-3">
+    <h1 class="col-8 my-4">Edit Employee</h1>
+    <form method="post" asp-controller="Employee" asp-action="Edit" class="row col-8">
+        <partial name="PartialViews/CreateEditEmployeePartial" />
 
-    <input class="btn btn-primary" value="Save" type="submit" /> |
-    <a asp-action="Index" asp-controller="Employee" class="btn btn-light"> Back to List</a>
-</form>
+
+
+        <div class="mt-4 m-auto">
+            <input class="btn btn-success" type="submit" value="Save" />
+            <a asp-controller="Employee" asp-action="Index" class="btn btn-outline-dark">Back to list</a>
+        </div>
+    </form>
+</div>
+
+
